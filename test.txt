@@ -1,0 +1,7 @@
+Add a Sample
+Upload your sample as a ZIP archive or simply cut and paste a code snippet into the submission form. If you are a GitHub user, you can also connect your account with VMware {code} to import gists and repositories (or individual files and folders within a repo) directly from GitHub.
+
+See Sample Exchange Guide for more information.
+
+Note: By contributing a sample, you are agreeing with the VMware Community Terms of Use and by the terms of the software license you select for your content. If you upload or paste a sample from your local computer, your content will be stored on GitHub in the vmwarecode account operated by VMware {code}.
+
